@@ -47,3 +47,6 @@ If you need more help, please just make an issue, or drop us a line at info@fjor
 Contributions are welcome. Please consult the issues tab for improvements and fixes which are in progress.
 
 If your issue/new feature is not listed, please make an issue, or even better make a pull request!
+
+# License
+Anyone can use, share, fork. May be used in commercial live streams or recordings, but this may not be embedded or used in any commercial product offering - i.e. no resale of the features or code offered here. Share alike license.
