@@ -6,6 +6,8 @@ in the action.
 
 (coming soon) Use overlays to show more content, such as titles, paragraphs, bullet points, images etc.
 
+![OBS Panels example](docs/cover.jpg?raw=true)
+
 # Installation
 Unlike many OBS plugins, all content required for OBS Panels is available immediately online. This removes the installation step,
 and will soon unlock additional collaborative tools and features. The online version is always up to date with the latest release.
