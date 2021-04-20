@@ -27,6 +27,8 @@ Set the URL field to the hosted URL: **http://fjord-online.com/panels/view.html*
 
 Set the width and height to match your project resolution (e.g. 1920 x 1080, 4k is also supported)
 
+Uncheck the box 'Refresh browser when scene becomes active'
+
 Press OK
 
 Ensure that the browser layer is at the top of your display: *Right click > Order > Move to top*
