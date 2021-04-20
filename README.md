@@ -6,7 +6,7 @@ in the action.
 
 (coming soon) Use overlays to show more content, such as titles, paragraphs, bullet points, images etc.
 
-![OBS Panels example](docs/cover.jpg?raw=true)
+![OBS Panels example](docs/overview.png?raw=true)
 
 # Installation
 Unlike many OBS plugins, all content required for OBS Panels is available immediately online. This removes the installation step,
