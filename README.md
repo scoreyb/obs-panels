@@ -40,6 +40,9 @@ Extract the zipped folder into a suitable location (e.g. user_folder/OBS-Panels)
 
 Follow the instructions for online installation, but replace the URLs with paths to your local config and view files
 
+# Need more docs?
+If you need more help, please just make an issue, or drop us a line at info@fjord-online.com. This is a new project - no question is too silly!
+
 # Contributing
 Contributions are welcome. Please consult the issues tab for improvements and fixes which are in progress.
 
