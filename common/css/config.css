@@ -1,0 +1,74 @@
+body {
+    background: var(--bs-light)
+}
+
+.panels .panel {
+    margin-bottom: 1em;
+}
+
+.panels .panel .title {
+    white-space: nowrap;
+    overflow-x: auto;
+    padding-left: 10px;
+}
+
+.panels .panel .title:focus {
+    outline: none;
+}
+
+.panels .panel .title:empty::after {
+    color: var(--bs-gray);
+    font-style: italic;
+	content: 'Title';
+}
+
+.switch {
+	padding: 5px;
+}
+
+.switch input[type=checkbox] {
+	height: 0;
+	width: 0;
+	visibility: hidden;
+	float: left;
+}
+
+.switch span {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 40px;
+	height: 20px;
+	background:  var(--bs-gray);
+	display: block;
+	border-radius: 20px;
+	position: relative;
+}
+
+.switch span:after {
+	content: '';
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	width: 10px;
+	height: 10px;
+	background: var(--bs-white);
+	border-radius: 5px;
+	transition: 0.3s;
+}
+
+.switch input:checked + span {
+	background: var(--bs-primary);
+}
+
+.switch input:checked + span:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+
+.switch span:active:after {
+	width: 15px;
+}
+
+.input-short {
+	max-width: 65px;
+}
